@@ -1,4 +1,4 @@
-module git.pinquest.cn/qlb/extrpkg/github.com/coreos/go-systemd
+module github.com/fengleng/go-systemd
 
 go 1.15
 
